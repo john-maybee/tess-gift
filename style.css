@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(to right, #C8A2C8, #FFFFFF);
+}
+
+    header {
+        text-align: center;
+        color:rgb(54, 94, 10);
+    }
+
+    .option {
+        width: 50%;
+        height: 200px;
+        justify-content: center;
+        width: 80%;
+        padding-left: 20px;
+
+    }
+
+    .option2 {
+        background-color: rgb(54, 94, 10);
+        border: 3px solid rgb(73, 133, 7);
+    }
+
+    .option1 {
+        background-color: rgb(73, 133, 7);
+        border: 3px solid rgb(54, 94, 10);
+    }
+
+    .team-name{
+        color:#C8A2C8;
+
+    }
+
+    footer{
+        padding-top: 40px;
+        padding-bottom: 40px;
+        text-align: center;
+        color:rgb(54, 94, 10);
+    }
+  
